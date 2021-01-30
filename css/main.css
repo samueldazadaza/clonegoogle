@@ -138,7 +138,7 @@ footer ul {
     padding-left: 0;
 }
 footer .footer-left {
-    justify-self: right;
+    justify-self: left;
 }
 footer .footer-right {
     justify-self: right;

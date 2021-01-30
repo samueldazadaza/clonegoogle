@@ -1,2 +1,6 @@
 # clonegoogle
-prayecto para practicar CSS y HTML
+proyecto para practicar CSS y HTML
+
+--------
+
+##### empezando a practicar CSS

@@ -11,4 +11,4 @@ https://samueldazadaza.github.io/clonegoogle/
 
 ----------
 
-https://raw.githubusercontent.com/samueldazadaza/clonegoogle/main/clonegoogle2.JPG
+[![iamgen clone google](https://raw.githubusercontent.com/samueldazadaza/clonegoogle/main/clonegoogle2.JPG "iamgen clone google")](https://raw.githubusercontent.com/samueldazadaza/clonegoogle/main/clonegoogle2.JPG "iamgen clone google")
